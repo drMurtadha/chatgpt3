@@ -3,7 +3,7 @@ description: abc
 coverY: 0
 ---
 
-# What is the meaning of Chatgpt?
+# 🤗 What is the meaning of Chatgpt?
 
 **ChatGPT** stands for "Chat Generative Pre-trained Transformer." It is an advanced artificial intelligence language model developed by OpenAI. The "Generative Pre-trained Transformer" (GPT) part of the name refers to the model's architecture, which is based on a transformer neural network architecture that has been pre-trained on a vast amount of text data. The "Chat" part indicates that this particular version of GPT is specialized for generating human-like text in a conversational or chat-like manner.
 
