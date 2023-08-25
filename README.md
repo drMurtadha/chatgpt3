@@ -1,45 +1,14 @@
-# 👋 ChatGPT 3
+---
+description: Probably the most closest description of Chatgpt
+coverY: 0
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 🤗 What is the meaning of Chatgpt?
 
-## Overview
+**ChatGPT** stands for "Chat Generative Pre-trained Transformer." It is an advanced artificial intelligence language model developed by OpenAI. The "Generative Pre-trained Transformer" (GPT) part of the name refers to the model's architecture, which is based on a transformer neural network architecture that has been pre-trained on a vast amount of text data. The "Chat" part indicates that this particular version of GPT is specialized for generating human-like text in a conversational or chat-like manner.
 
-Here are a couple of example overviews from products with really great docs:
+ChatGPT is designed to understand and generate coherent, contextually relevant text in response to prompts or questions, making it suitable for a wide range of applications, including natural language understanding, language generation, and virtual conversational agents. It can simulate conversations and provide detailed responses that make sense within the context of the conversation. It's important to note that while ChatGPT can generate impressive and contextually relevant text, it doesn't possess genuine understanding or consciousness—it's a product of complex pattern recognition and statistical language modeling.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+<figure><img src="https://www.hausmanmarketingletter.com/wp-content/uploads/2023/05/64063dbcad97bd421b437096_chatgpt.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+{% embed url="https://youtu.be/8H4ztde6Hn0?si=NIzQogpij4vi94GD" %}

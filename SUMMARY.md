@@ -1,7 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
-  * [🤗 What is the meaning of Chatgpt?](welcome-to-a-product/what-is-the-meaning-of-chatgpt.md)
+* [🤗 What is the meaning of Chatgpt?](README.md)
 
 ## Overview
 
