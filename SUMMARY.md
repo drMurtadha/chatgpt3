@@ -1,6 +1,8 @@
 # Table of contents
 
 * [🤗 What is the meaning of Chatgpt?](README.md)
+  * [💡 How ChatGPT handles a prompt](what-is-the-meaning-of-chatgpt/how-chatgpt-handles-a-prompt.md)
+* [Page](page.md)
 
 ## Overview
 
